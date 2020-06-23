@@ -1,3 +1,4 @@
+#include "check.h"
 int check_randomised_mas(int mas[],int max)
 {
   printf("not generated nums:");
